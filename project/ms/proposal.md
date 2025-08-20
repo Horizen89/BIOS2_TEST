@@ -16,4 +16,5 @@ We hope to achieve a lot.
 
 # Conclusion
 
-This is truly a great proposal.
+Un jour on va travailler sur un vrai projet.
+Je ne sais pas trop quand.
