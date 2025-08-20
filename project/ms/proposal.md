@@ -18,3 +18,5 @@ Test dans une nouvelle branche
 
 Un jour on va travailler sur un vrai projet.
 Je ne sais pas trop quand.
+
+Ceci est un test de conflit
