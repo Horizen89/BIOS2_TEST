@@ -1,6 +1,6 @@
 # Summary
 
-This is the summary for our proposal.
+Je commence à gosser avec git
 
 # Funding
 
