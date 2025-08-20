@@ -13,6 +13,7 @@ Here we have some methods using our Python scripts.
 # Expected results
 
 Test dans une nouvelle branche
+Et maintenant, test avec un conflit, depuis la branche
 
 # Conclusion
 
